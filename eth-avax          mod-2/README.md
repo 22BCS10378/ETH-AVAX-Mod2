@@ -28,8 +28,7 @@ To run this program, First create a directory , switch to that directory and ope
 
 ## Authors
 
-Mayank Sharma  
-[@Mayank](https://www.linkedin.com/in/mayank-sharma-078278243/)
+Arpit Srivastava
 
 
 ## License
